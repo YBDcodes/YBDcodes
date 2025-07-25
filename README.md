@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Nwofor Ifeanyi Henry 
 **Front-End Developer | HTML & CSS Enthusiast | Lifelong Learner**
 
