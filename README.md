@@ -51,13 +51,13 @@ I'm an aspiring **Front-End Developer** with a strong foundation in **HTML** and
 
 📊 **GitHub Stats**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)](https://github.com/your-github-YBDcodes)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?YBDcodes&show_icons=true&theme=tokyonight)](https://github.com/your-github-YBDcodes)
 
 ---
 
 📫 **Let’s Connect**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) *(Add your link)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) *(check back later)*  
 - 🐦 [Twitter/X](https://twitter.com/your-handle) *(Optional)*  
 - 📧 Email:nwoforifeanyihenry@gmail.com
 
