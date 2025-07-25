@@ -51,7 +51,7 @@ I'm an aspiring **Front-End Developer** with a strong foundation in **HTML** and
 
 📊 **GitHub Stats**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YBDcodes&show_icons=true&theme=tokyonight)](https://github.com/YBDcodes)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YBDcodes&show_icons=true&theme=tokyonight&hide_title=true)](https://github.com/YBDcodes)
 
 ---
 
